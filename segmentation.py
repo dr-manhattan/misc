@@ -2,7 +2,6 @@
 # Max Kesin
 # Releasing under MIT license
 
-from Queue import PriorityQueue
 import pylab
 import math
 
